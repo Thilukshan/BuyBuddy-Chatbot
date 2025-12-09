@@ -1,0 +1,67 @@
+Products (data/products/)
+
+Product: Wireless Bluetooth Headphones
+Price: Rs. 5,500
+Description: Over-ear, noise-cancelling headphones with 20 hours battery life. Supports Bluetooth 5.1 and fast charging.
+Category: Electronics > Audio
+Stock: Available
+
+Product: Smart LED TV 42"
+Price: Rs. 42,000
+Description: 42-inch Full HD Smart LED TV with built-in apps like Netflix, YouTube, and Prime Video. Supports HDMI and USB connectivity.
+Category: Electronics > TV
+Stock: Available
+
+Product: Men’s Cotton T-Shirt
+Price: Rs. 1,200
+Description: 100% cotton, comfortable fit, available in S, M, L, XL. Colors: Blue, Black, White.
+Category: Clothing > Men
+Stock: Available
+
+Product: Women’s Denim Jacket
+Price: Rs. 3,500
+Description: Stylish denim jacket with button closure, pockets, and classic design. Sizes: S, M, L.
+Category: Clothing > Women
+Stock: Limited
+
+Policies (data/policies/)
+
+refund_policy
+
+Refunds are accepted within 14 days of delivery. Items must be unused and in original packaging. To initiate a refund, contact our support team with your order number and receipt. Refunds will be processed to the original payment method within 7 business days.
+
+
+shipping_policy
+
+We offer free standard shipping on orders over Rs. 5,000. Standard delivery time is 3-7 business days. Express shipping is available at additional cost. International shipping is not supported at this time.
+
+Navigation (data/navigation/)
+
+how_to_checkout
+
+To complete your purchase, follow these steps:
+1. Add items to your cart.
+2. Click the cart icon on the top right corner.
+3. Review your items and click 'Proceed to Checkout'.
+4. Enter shipping and billing information.
+5. Choose a payment method and click 'Place Order'.
+
+
+track_orders
+
+To track your order:
+1. Log in to your account.
+2. Go to 'Profile' → 'Orders'.
+3. Select the order you want to track.
+4. View the current status and estimated delivery date.
+
+FAQ (data/faq/)
+
+Q: Can I cancel my order?
+A: Yes, orders can be canceled within 2 hours of placement by contacting support.
+
+Q: What payment methods are accepted?
+A: We accept credit/debit cards, PayPal, and mobile wallet payments.
+
+Q: How can I contact customer support?
+A: You can reach us via email at support@ecommerce.com or call +94 11 234 5678 between 9 AM and 6 PM.
