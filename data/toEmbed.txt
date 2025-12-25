@@ -1,67 +1,169 @@
-Products (data/products/)
-
-Product: Wireless Bluetooth Headphones
-Price: Rs. 5,500
-Description: Over-ear, noise-cancelling headphones with 20 hours battery life. Supports Bluetooth 5.1 and fast charging.
-Category: Electronics > Audio
-Stock: Available
-
-Product: Smart LED TV 42"
-Price: Rs. 42,000
-Description: 42-inch Full HD Smart LED TV with built-in apps like Netflix, YouTube, and Prime Video. Supports HDMI and USB connectivity.
-Category: Electronics > TV
-Stock: Available
-
-Product: Men’s Cotton T-Shirt
-Price: Rs. 1,200
-Description: 100% cotton, comfortable fit, available in S, M, L, XL. Colors: Blue, Black, White.
-Category: Clothing > Men
-Stock: Available
-
-Product: Women’s Denim Jacket
-Price: Rs. 3,500
-Description: Stylish denim jacket with button closure, pockets, and classic design. Sizes: S, M, L.
-Category: Clothing > Women
-Stock: Limited
-
 Policies (data/policies/)
+
+return_policy
+
+Returns are accepted within 14 days of delivery.
+Products must be unused, undamaged, and in the original packaging.
+To start a return, contact customer support with your order ID and reason for return.
 
 refund_policy
 
-Refunds are accepted within 14 days of delivery. Items must be unused and in original packaging. To initiate a refund, contact our support team with your order number and receipt. Refunds will be processed to the original payment method within 7 business days.
+Once the returned item is received and inspected, refunds will be processed within 5–7 business days.
+The refund will be sent to the original payment method.
+You will receive a confirmation message once the refund is completed.
 
+exchange_policy
+
+Exchanges are allowed within 14 days of delivery.
+Items must be unused and in original condition.
+If the requested item is out of stock, a refund will be issued instead.
 
 shipping_policy
 
-We offer free standard shipping on orders over Rs. 5,000. Standard delivery time is 3-7 business days. Express shipping is available at additional cost. International shipping is not supported at this time.
+Standard delivery time is 3–7 business days.
+Delivery time may vary based on location and availability.
+Shipping delays may occur due to weather, holidays, or courier issues.
 
-Navigation (data/navigation/)
+international_shipping_policy
 
-how_to_checkout
+Currently, we do not support international shipping.
+We only deliver within Sri Lanka.
 
-To complete your purchase, follow these steps:
-1. Add items to your cart.
-2. Click the cart icon on the top right corner.
-3. Review your items and click 'Proceed to Checkout'.
-4. Enter shipping and billing information.
-5. Choose a payment method and click 'Place Order'.
+payment_policy
 
+We accept credit cards, debit cards, mobile wallets, and online banking.
+All payments are processed securely.
+Cash on Delivery may be available for selected locations.
 
-track_orders
+cancellation_policy
+
+Orders can be canceled within 2 hours of placement.
+After dispatch, cancellation is not allowed.
+To cancel an order, contact customer support immediately.
+
+Navigation / How-To (data/navigation/)
+
+track_order
 
 To track your order:
-1. Log in to your account.
-2. Go to 'Profile' → 'Orders'.
-3. Select the order you want to track.
-4. View the current status and estimated delivery date.
+1.	Log in to your account
+2.	Go to My Orders
+3.	Select the order
+4.	View shipment status and estimated delivery date
 
-FAQ (data/faq/)
+estimated_delivery
 
+Estimated delivery time is shown in My Orders under each order.
+You will also receive delivery updates via SMS or email.
+
+change_delivery_address
+
+You can change the delivery address before the order is shipped.
+Go to My Orders → Edit Address or contact support for help.
+
+return_product
+
+To return a product:
+1.	Log in to your account
+2.	Go to My Orders
+3.	Select the product
+4.	Click Request Return
+5.	Follow the instructions provided
+
+reset_password
+
+To reset your password:
+1.	Go to the login page
+2.	Click Forgot Password
+3.	Enter your registered email
+4.	Follow the reset link sent to your email
+
+update_payment_method
+
+To update your payment method:
+1.	Log in to your account
+2.	Go to Account Settings
+3.	Select Payment Methods
+4.	Add or update your payment details
+
+add_shipping_address
+
+To add a new shipping address:
+1.	Log in to your account
+2.	Go to Profile → Addresses
+3.	Click Add New Address
+4.	Save changes
+
+apply_discount_code
+
+To apply a discount code:
+1.	Add items to your cart
+2.	Go to checkout
+3.	Enter the discount code in the promo box
+4.	Click Apply
+
+subscribe_newsletter
+
+To subscribe to our newsletter:
+1.	Enter your email at the bottom of our website
+2.	Click Subscribe
+You will receive offers, updates, and new product alerts.
+
+FAQ / Information (data/faq/)
+
+order_and_delivery
+
+Q: Where is my order?
+A: You can track your order in My Orders after logging in.
+Q: Why hasn’t my order arrived yet?
+A: Delivery delays may occur due to courier issues or high demand. Please check the latest status in your account.
+Q: Can I change my delivery address?
+A: Yes, only before the order is shipped.
+
+returns_and_refunds
+
+Q: What is your return policy?
+A: Returns are accepted within 14 days of delivery.
+Q: When will I get my refund?
+A: Refunds are processed within 5–7 business days after return approval.
+Q: Can I exchange an item?
+A: Yes, exchanges are allowed within 14 days if stock is available.
+
+products_and_recommendations
+
+Q: Suggest products for me
+A: We recommend products based on your browsing and purchase history.
+Q: What are your bestsellers?
+A: Our bestsellers are listed under the Bestsellers section on the homepage.
+Q: Show me trending items
+A: Trending products can be found in the Trending Now section.
+
+account_and_support
+
+Q: Check my account balance
+A: Account balance or wallet details can be viewed under My Account.
+Q: What are your customer support hours?
+A: Customer support is available 9 AM – 6 PM, Monday to Saturday.
+Q: How do I contact a human agent?
+A: You can request a human agent via live chat or call our support number.
+
+store_and_services
+
+Q: Where can I find your store locations?
+A: Store locations are available on the Store Locator page.
+Q: Do you offer gift cards?
+A: Yes, digital gift cards are available on our website.
+Q: Do you have a loyalty program?
+A: Yes, customers earn reward points for every purchase.
+
+payments_and_orders
+
+Q: What payment methods do you accept?
+A: Credit/debit cards, mobile wallets, and online banking.
 Q: Can I cancel my order?
-A: Yes, orders can be canceled within 2 hours of placement by contacting support.
+A: Orders can be canceled within 2 hours of placing them.
+Q: Can I pre-order items?
+A: Yes, pre-orders are available for selected products.
+Q: Do you ship internationally?
+A: No, international shipping is not available at this time.
 
-Q: What payment methods are accepted?
-A: We accept credit/debit cards, PayPal, and mobile wallet payments.
-
-Q: How can I contact customer support?
-A: You can reach us via email at support@ecommerce.com or call +94 11 234 5678 between 9 AM and 6 PM.
