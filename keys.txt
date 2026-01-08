@@ -1,0 +1,4 @@
+GOOGLE_GENAI_API_KEY="AIzaSyDv9xVgv-rPSEKn_3BOZpV7Uj7zaPDliN4" - tech (limit exceeded)
+GOOGLE_GENAI_API_KEY="AIzaSyDBgzbH3Mbb3YgBDJWwiHZZGbMkClOQTI4" - tech (limit exceeded)
+GOOGLE_GENAI_API_KEY="AIzaSyAEQKz52oFwolDSfxemwQwwbuMoDchTzjo" - Current
+GOOGLE_GENAI_API_KEY="AIzaSyCyPxXAVuI-REPGIZaR7wSqsrZMGTNJQKg"
